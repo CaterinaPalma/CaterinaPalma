@@ -1,20 +1,7 @@
 ## Hi there 👋
 
-## This is my page :) 
+This is my GitHub page with all MB5370 Techniques in Marine Science documents. 
 
-Hi there 
+I am currently learning how to use Rstudio from scratch so I can use it throughout my career. 
 
-<!--
-**CaterinaPalma/CaterinaPalma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-#Here are some ideas to get you started:
-
-#- 🔭 I’m currently working on ... completing techniques in marince science 1! 
-- 🌱 I’m currently learning ... how to use RStudio. 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you need to reach me my email address is... 
