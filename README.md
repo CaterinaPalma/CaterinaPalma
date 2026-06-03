@@ -1,6 +1,9 @@
 ## Hi there 👋
 
 ## This is my page :) 
+
+Hi there 
+
 <!--
 **CaterinaPalma/CaterinaPalma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
