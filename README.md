@@ -13,6 +13,5 @@ Please see my published site, with all my current work: https://sites.google.com
 
 Thanks for visiting! 
 
-Caterina Palma 
-
-caterina.palma@my.jcu.edu.au
+If you want to reach me, you can do this via my school email: caterina.palma@my.jcu.edu.au
+Or personal email: caterina.palma23@gmail.com
