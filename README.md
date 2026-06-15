@@ -7,6 +7,7 @@ My major is marine conservation and management. I want to begin working in small
 I have developed skills in marine management, conservation, Excel, GIS, RStudio, science communication, and just overall learning about the scope of marine science and marine biology. 
 
 My favourite part of the modules 😎 : data cleaning, using the vast amount of R libraries to code changes in messy data. 
+
 Hardest part of the modules 😳 : learning a new language (R) from scratch. 
 
 Please see my published site, with all my current work: https://sites.google.com/view/mb5370-assessment-portfolio/home-page 
