@@ -1,4 +1,4 @@
-## Hi there 👋 & Welcome to my GitHub page 
+## Welcome to my GitHub page 👋🏼
 
 My name is Caterina Palma and I am a master of Marine Biology student at JCU. You have stumbled across my GitHub portfolio which includes all the activites I completed in workshops throughout weeks 1-4 of MB5370 aka Techniques in Marine Science. 
 
